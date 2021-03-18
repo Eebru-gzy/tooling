@@ -1,7 +1,7 @@
 [![nginx 1.17.2](https://img.shields.io/badge/nginx-1.17.2-brightgreen.svg?&logo=nginx&logoColor=white&style=for-the-badge)](https://nginx.org/en/CHANGES) [![php 7.3.8](https://img.shields.io/badge/php--fpm-7.3.8-blue.svg?&logo=php&logoColor=white&style=for-the-badge)](https://secure.php.net/releases/7_3_8.php)
 
 
-## Introduction
+# Introduction
 This is a Dockerfile to build a debian based container image running nginx and php-fpm 7.3.x / 7.2.x / 7.1.x / 7.0.x & Composer.
 
 ### Versioning
@@ -71,4 +71,5 @@ Default web root:
 /usr/share/nginx/html
 ```
 
-## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com or call Eebru... Still testing Webhook.
+## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com or call Eebru... 
+#  **Still testing Webhook.**
